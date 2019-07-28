@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoShutdown", "AutoShutdown\AutoShutdown.csproj", "{973C46E4-2E7E-4D70-A35D-E11DD386FE8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_AutoShutdown", "UnitTest_AutoShutdown\UnitTest_AutoShutdown.csproj", "{1853F890-887A-4144-BFA6-1F93AA102957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,30 @@ Global
 		{973C46E4-2E7E-4D70-A35D-E11DD386FE8A}.Release|x86.ActiveCfg = Production|x86
 		{973C46E4-2E7E-4D70-A35D-E11DD386FE8A}.Release|x86.Build.0 = Production|x86
 		{973C46E4-2E7E-4D70-A35D-E11DD386FE8A}.Release|x86.Deploy.0 = Production|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM.Build.0 = Debug|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM.Deploy.0 = Debug|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM64.Build.0 = Debug|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x64.ActiveCfg = Debug|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x64.Build.0 = Debug|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x64.Deploy.0 = Debug|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x86.ActiveCfg = Debug|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x86.Build.0 = Debug|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Debug|x86.Deploy.0 = Debug|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM.ActiveCfg = Release|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM.Build.0 = Release|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM.Deploy.0 = Release|ARM
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM64.ActiveCfg = Release|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM64.Build.0 = Release|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|ARM64.Deploy.0 = Release|ARM64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x64.ActiveCfg = Release|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x64.Build.0 = Release|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x64.Deploy.0 = Release|x64
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x86.ActiveCfg = Release|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x86.Build.0 = Release|x86
+		{1853F890-887A-4144-BFA6-1F93AA102957}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
