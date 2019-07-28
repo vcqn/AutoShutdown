@@ -10,6 +10,7 @@ namespace UnitTest_AutoShutdown
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
